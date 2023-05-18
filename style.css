@@ -3,6 +3,12 @@
     src: url(fonts/COMIC.TTF);
 }
 
+img{
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+
 body{
   background-image: url(images/stars.gif);
   background-attachment: fixed;
@@ -14,6 +20,12 @@ div{
 }
 
 h1, h2, h3, h4{
+  text-align: center;
+  font-family: COMIC;
+  color: white;
+}
+
+p, a{
   text-align: center;
   font-family: COMIC;
   color: white;
