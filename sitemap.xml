@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://8bitant.com/</loc>
-  <lastmod>2023-05-18T12:17:03+00:00</lastmod>
+<loc>https://www.8bitant.com/</loc>
+<lastmod>2023-05-18T21:43:07+00:00</lastmod>
 </url>
-
-
+<url>
+<loc>https://www.8bitant.com/404</loc>
+<lastmod>2023-05-18T12:49:09+00:00</lastmod>
+</url>
 </urlset>
