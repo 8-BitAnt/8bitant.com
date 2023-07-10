@@ -1,0 +1,86 @@
+@font-face{
+    font-family: COMIC;
+    src: url(fonts/COMIC.TTF);
+}
+
+img{
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+
+body{
+  background-image: url(images/stars.gif);
+  background-attachment: fixed;
+}
+
+div{
+  display: table;
+  margin: 0 auto;
+}
+
+h1, h2, h3, h4{
+  text-align: center;
+  font-family: COMIC;
+  color: white;
+}
+
+p, a{
+  text-align: center;
+  font-family: COMIC;
+  color: white;
+}
+
+.title{
+  border: gray 10px ridge;
+  width: 550px;
+  margin: 0 auto;
+  margin-top: 20px;
+  background-image: url(images/darkbrick.jpg);
+}
+
+.title{
+  margin: 1rem;
+  text-align: center;
+}
+
+.box{
+  display: inline-block;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+  font-family: badComic;
+  background-color: #141414;
+  width: 200px;
+  text-align: center;
+  color: white;
+  border: gray 10px ridge;
+  margin-top: 10px;
+  margin-right: 10px;
+  image-rendering: -webkit-optimize-contrast;
+}
+
+img{
+  image-rendering: -webkit-optimize-contrast;
+}
+
+.linkz{
+  padding: 5px;
+}
+
+.sitez{
+  padding: 5px;
+  background-color: #141414;
+  border-radius: 5px;
+  border: gray 3px solid;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.thumb{
+  border-radius: 5px;
+  border: gray 3px solid;
+}
+
+.div-edit{
+  margin-bottom: 30px;
+}
