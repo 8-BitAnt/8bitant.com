@@ -1,0 +1,99 @@
+.slogan
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	font-weight:bold;
+	color:#B8860B;
+	font-style:italic;
+}
+.nav1
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#734482;
+	text-decoration:none;
+	padding-right:15px;
+	padding-left:15px;
+}
+.nav1:hover
+{
+	color:#1E8D87;
+}
+.nav1background
+{
+	background-image:url(./002_07.jpg);
+}
+.nav2
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#734482;
+	text-decoration:none;
+}
+.nav2:hover
+{
+	color:#BFC3DC;
+}
+.nav2border
+{
+	border:2px solid #662F73;
+}
+.nav2background
+{
+	background-color:#EBFFFF;
+	text-align:center;
+}
+.nav2container
+{
+	background-color:#FFFFFF;
+}
+a
+{
+	color:#1E8D87;
+}
+a:hover
+{
+	text-decoration:none;
+}
+p
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+li
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+h1
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#734482;
+}
+.copyright
+{
+	color:#FFFFFF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+}
+.contentbackground
+{
+	background-color:#FFFFFF;
+}
+.bannerbackground
+{
+	background-color:#FFFFFF;
+}
+.contentrightbk
+{
+	background-color:#FFFFFF;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+body
+{
+	background-image:url(./stars.gif);
+}
