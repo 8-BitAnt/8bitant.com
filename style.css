@@ -10,7 +10,7 @@ img{
 }
 
 body{
-  background-image: url(images/stars.gif);
+  background-image: url(usertpl/1arts/stars.gif);
   background-attachment: fixed;
 }
 
@@ -25,10 +25,10 @@ h1, h2, h3, h4{
   color: white;
 }
 
-p, a{
+a{
   text-align: center;
   font-family: COMIC;
-  color: white;
+  color: rgb(0, 204, 255);
 }
 
 .title{
@@ -36,7 +36,8 @@ p, a{
   width: 550px;
   margin: 0 auto;
   margin-top: 20px;
-  background-image: url(images/darkbrick.jpg);
+  background-image: url(darkbrick.jpg);
+  padding: 10px;
 }
 
 .title{
